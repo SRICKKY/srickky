@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm SRIKANT</h1>
 <h3 align="center">Senior Software Engineer</h3>
+<p>Greetings! 👋 I'm a seasoned Senior Software Engineer and Backend Developer with a passion for crafting innovative solutions. With a focus on Python development, I bring extensive expertise in FastAPI and Django frameworks to the table.
+
+Over the past 5 years, I have honed my skills in building robust, scalable, and efficient products from the ground up. My commitment to excellence extends from concept to implementation, ensuring that each project I undertake is not only functional but also showcases a high level of craftsmanship.
+
+My proficiency lies in translating complex ideas into practical, well-architected software solutions. I thrive in dynamic environments and enjoy collaborating with cross-functional teams to bring ideas to life. My dedication to staying current with emerging technologies keeps me at the forefront of industry trends.
+
+Let's connect and explore opportunities to leverage my skills in creating impactful software solutions. Together, we can turn ideas into reality and drive technological innovation forward! 🌐💻 </p>
 
 - 📫 How to reach me **kumar_srikant@outlook.com**
 
